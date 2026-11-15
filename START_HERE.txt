@@ -1,0 +1,23 @@
+INNOVATION UNIVERSITY - CITY ROUTE FINDER USING BFS - CF321
+===================================
+
+Students:
+- Nour Hussein   | 24030193 | CS
+- Mayar Ali      | 24030066 | CS
+- Mariam Mohamed | 24030054 | CS
+
+HOW TO START:
+1) Unzip this folder on your computer.
+2) Make sure Python 3.10+ is installed.
+3) Open a terminal in this folder.
+4) Run:  python main.py
+5) For terminal-only mode: python main.py --cli
+6) To test: python -m unittest discover -s tests -v
+
+HOW TO SUBMIT:
+Upload the entire folder's files to a new GitHub repository.
+Submit that GitHub repository link as directed by the instructor.
+
+Notes:
+- This is an educational example, not a real navigation service.
+- University branding/logo, Python code, README, report, and evidence screenshots are included.
